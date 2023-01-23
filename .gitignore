@@ -1,0 +1,13 @@
+/node_modules
+# Project exclude paths
+/43-r3f-drei/node_modules/
+/44-debug-a-r3f-application/node_modules/
+/45-environment-and-staging-with-r3f/node_modules/
+/46-load-models-with-r3f/node_modules/
+/47-3d-text-with-r3f/node_modules/
+/48-portal-scene-with-r3f/node_modules/
+/49-mouse-events-with-r3f/node_modules/
+/50-post-processing-with-r3f/node_modules/
+/51-fun-and-simple-portfolio-with-r3f/node_modules/
+/52-physics-with-r3f/node_modules/
+/53-create-a-game-with-r3f/node_modules/
